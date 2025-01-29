@@ -1,15 +1,8 @@
 {
   "projects": [
     {
-      "id": "72a9",
-      "name": "LIVE AND LEARN",
-      "budget": "5000",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9a50",
-      "name": "Thales L E V Sousa",
+      "id": "a4df",
+      "name": "Thales Euler",
       "budget": "5000",
       "category": {
         "id": "2",
@@ -19,39 +12,9 @@
       "services": []
     },
     {
-      "id": "5dbc",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "6dc6",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3a8e",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "e122",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9c96",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "5a85",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4518",
-      "name": "Thales L E V Sousa",
-      "budget": "5000",
+      "id": "51bf",
+      "name": "Cerâmica",
+      "budget": "8655",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -60,12 +23,28 @@
       "services": []
     },
     {
-      "id": "c945",
-      "name": "Thales L E V Sousa",
-      "budget": "5000",
+      "id": "d41d",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "46b7",
+      "name": "Thales Euler",
+      "budget": "6757",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a6fd",
+      "name": "Projeto Cerâmica",
+      "budget": "567547",
+      "category": {
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []
