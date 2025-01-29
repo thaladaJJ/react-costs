@@ -1,21 +1,92 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "id": "72a9",
+      "name": "LIVE AND LEARN",
+      "budget": "5000",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9a50",
+      "name": "Thales L E V Sousa",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5dbc",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "6dc6",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3a8e",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e122",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9c96",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5a85",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4518",
+      "name": "Thales L E V Sousa",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c945",
+      "name": "Thales L E V Sousa",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
