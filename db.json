@@ -23,28 +23,6 @@
       "services": []
     },
     {
-      "id": "2f1f",
-      "budget": "2000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "name": "Costs",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "a933",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "budget": "6000",
-      "name": "Café",
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "c877",
       "name": "Projeto R",
       "budget": "5000",
@@ -73,17 +51,6 @@
       "category": {
         "id": "4",
         "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9596",
-      "name": "Mural do Salgado",
-      "budget": "2900",
-      "category": {
-        "id": "3",
-        "name": "Design"
       },
       "cost": 0,
       "services": []
