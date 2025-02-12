@@ -8,8 +8,21 @@
         "name": "Desenvolvimento"
       },
       "budget": "14000",
-      "cost": 0,
-      "services": []
+      "cost": 13600,
+      "services": [
+        {
+          "name": "Contratação de jogadores",
+          "cost": "8000",
+          "description": "Atacar o mercado de transferências",
+          "id": "1c66aad3-c969-493a-a23b-808fd20a5510"
+        },
+        {
+          "name": "Folha Salarial",
+          "cost": "5600",
+          "description": "Salário mensal dos jogadores",
+          "id": "5f3fdd68-b58f-47ef-a2f1-f3d0f648c138"
+        }
+      ]
     },
     {
       "id": "c877",
@@ -30,19 +43,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "dfc8",
-      "name": "HQ Hub",
-      "budget": "6990",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
+      "cost": 12000,
+      "services": [
+        {
+          "name": "Irrigação",
+          "description": "Cuidado hídrico diário do campo",
+          "cost": "5000",
+          "id": "8d0d2fb5-2df0-427f-95bc-158536de2a35"
+        },
+        {
+          "name": "Limpeza",
+          "cost": "7000",
+          "description": "Limpeza dos arredores na arena",
+          "id": "5a5a15e7-17b9-4cd0-b122-acd089208540"
+        }
+      ]
     },
     {
       "id": "4edc",
@@ -52,8 +67,27 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 410000,
+      "services": [
+        {
+          "name": "Script e Roteiro",
+          "cost": "40000",
+          "description": "Desenvolver a história",
+          "id": "24c65a98-bd80-49de-954d-cce10e469320"
+        },
+        {
+          "name": "Construção de Fases",
+          "cost": "250000",
+          "description": "Desenvolver as fases do jogo",
+          "id": "204386b2-a7ef-4506-84dd-090ad9cfc161"
+        },
+        {
+          "name": "Design de Personagem",
+          "cost": "120000",
+          "description": "Desenhar os modelos dos personagens",
+          "id": "c97f6191-671a-4d71-9a88-e5a52dce5942"
+        }
+      ]
     }
   ],
   "categories": [
